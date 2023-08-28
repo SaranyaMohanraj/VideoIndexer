@@ -1,6 +1,6 @@
 # VideoIndexer
 VideoIndexer Application -Automation
-Selenium-Java-TestNG Framework
+Selenium-Java-TestNG Framework(POM)
 A Maven framework in which to build Selenium tests written in Java with TestNG reports of test results.
 
 **Getting Started**
